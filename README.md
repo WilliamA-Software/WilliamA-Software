@@ -1,5 +1,7 @@
 <H1 align="center">Hi 👋, I am William Otalora  </H1>
 <br>
+<img src="https://i.imgur.com/lLIMqMd.png">
+<br>
 
 ## 🧑 About me
 - 👨‍💻 I'm a Junior Software Developer, a self-taught Front-End developer
