@@ -13,4 +13,3 @@
 - Design: Photoshop - Training Figma
 - Agile methodologies: Scrum
 - Organization and Responsible
-## 
