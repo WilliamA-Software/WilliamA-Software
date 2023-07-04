@@ -1,16 +1,16 @@
-### Hi there 👋
+<H1 align="center">Hi 👋, I am William Otalora  </H1>
+<br>
 
-<!--
-**WilliamA-Software/WilliamA-Software** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑 About me
+- 👨‍💻 I'm a Junior Software Developer, a self-taught Front-End developer
+- 💻 I like working on web or mobile projects but I can also take on challenges
+- 📝 I'm passionate about design
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💪 Skills
+- Web dev: HTML - CSS - Javascript
+- Mobile dev: Android Java & Kotlin
+- DataBase: SQL Server
+- Design: Photoshop - Training Figma
+- Agile methodologies: Scrum
+- Organization and Responsible
+## 
